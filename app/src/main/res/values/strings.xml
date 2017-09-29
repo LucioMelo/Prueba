@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Prueba Temas</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_NombreUsuario">Nombre de Usuario</string>
+    <string name="hint_Contraseña">Contraseña</string>
+    <string name="textButtonLogin">Entrar</string>
+    <string name="strDontHaveAccount">¿No tienes cuenta?, </string>
+    <string name="strCreateHere">crea una aquí</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_ConfirmPassword">Confirmar contraseña</string>
+    <string name="textButtonUnete">ÚNETE</string>
+    <string name="toolbar_tittle_createAccount">Crear cuenta</string>
+    <string name="textCardViewCaptura">Captura tú boleto</string>
+    <string name="firstWord_card">Primer paso.</string>
+    <string name="text_timeCard">4 Dias</string>
+    <string name="text_likeNumberCard">Me gusta</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Inicio</string>
+    <string name="tab_profile">Yo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="strSecondWordDetail">Me gusta</string>
+    <string name="strTitleImageDetail">\"Todo copas en la playa\"</string>
+    <string name="lorem">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.</string>
+    <string name="strTransitionNamePicture">TransitionNamePicture</string>
+
+</resources>

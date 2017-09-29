@@ -1,0 +1,36 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="dimenEditTextSize">22sp</dimen>
+    <dimen name="dimenHorizontalLogin">32dp</dimen>
+    <dimen name="dimenDontHaveAccount">16dp</dimen>
+    <dimen name="dimenEditTextMargin">10dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="height_cardView">200dp</dimen>
+    <dimen name="cornerradius_cardview">4dp</dimen>
+    <dimen name="text_Size_textCardViewCaptura">25sp</dimen>
+    <dimen name="firstWord_textSize_card">12sp</dimen>
+    <dimen name="dimen_timecard_margin_left">5dp</dimen>
+    <dimen name="dimen_like_marginTop">10dp</dimen>
+    <dimen name="dimen_bottombar_height">70dp</dimen>
+    <dimen name="dimen_appbarLayoutHeight">256dp</dimen>
+    <dimen name="dimenTextSize_userNameDetail">25sp</dimen>
+    <dimen name="dimen_TextSize_likeNumberDetail">16sp</dimen>
+    <dimen name="marginLeft_secondWord">7dp</dimen>
+    <dimen name="dimen_height_divider">1dp</dimen>
+    <dimen name="dimen_PadingTop_tittleImageDetail">20dp</dimen>
+    <dimen name="dimen_paddingHorizontalTextContentDetail">35dp</dimen>
+    <dimen name="text_Size_UserNameProfile">30dp</dimen>
+    <dimen name="dimen_circleImageProfile">160dp</dimen>
+    <dimen name="dimen_marginTopProfile">30dp</dimen>
+    <dimen name="dimen_elevationCircleImageProfile">10dp</dimen>
+    <dimen name="dimen_limitY_circleImage">-206dp</dimen>
+    <dimen name="dimenTopToolbar_circleImageProfile">-15dp</dimen>
+    <dimen name="dimen_width_circleImageToolBar">40dp</dimen>
+    <dimen name="dimen_height_circleImageToolBar">40dp</dimen>
+    <dimen name="text_Size_userNameToolBarProfile">18dp</dimen>
+    <dimen name="dimen_marginleft_userNameToolBarProfile">72dp</dimen>
+    <dimen name="dimen_marginTop_userNameToolBarProfile">-100dp</dimen>
+    <dimen name="limitY_usernametoolBarProfile">-250dp</dimen>
+    <dimen name="dimen_marginTopTargeY_UserNameToolBarProfile">-5dp</dimen>
+</resources>
