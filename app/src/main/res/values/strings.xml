@@ -4,7 +4,7 @@
     <string name="hint_NombreUsuario">Nombre de Usuario</string>
     <string name="hint_Contraseña">Contraseña</string>
     <string name="textButtonLogin">Entrar</string>
-    <string name="strDontHaveAccount">No tienes cuenta ,</string>
+    <string name="strDontHaveAccount">¿No tienes cuenta? ,</string>
     <string name="strCreateHere">crea una aquí</string>
     <string name="hint_email">Correo</string>
     <string name="hint_ConfirmPassword">Confirmar contraseña</string>
